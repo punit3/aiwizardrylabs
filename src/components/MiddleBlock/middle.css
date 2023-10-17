@@ -1,0 +1,18 @@
+
+  
+  .middle-block-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+  
+  @media only screen and (max-width: 890px) {
+    /* For mobile phones: */
+    .middle-block-container {
+      
+        flex-direction: column;
+      }
+  } 
+
+  

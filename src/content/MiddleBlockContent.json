@@ -1,0 +1,21 @@
+{
+    "title": "Our Products and Services",
+    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
+    "button": "Get started",
+    "product": [
+      { "title":"EduBot",
+      "description":"EduBot - India's own GPT-like AI-based bot for education purposes is an exciting and innovative project that holds immense potential for the educational landscape in India. This groundbreaking initiative aims to harness the power of artificial intelligence to revolutionize the way students learn, educators teach, and knowledge is disseminated"
+     }
+     ,
+     { "title":"EduBot",
+      "description":"EduBot - India's own GPT-like AI-based bot for education purposes is an exciting and innovative project that holds immense potential for the educational landscape in India. This groundbreaking initiative aims to harness the power of artificial intelligence to revolutionize the way students learn, educators teach, and knowledge is disseminated"
+     }
+   ,
+   { "title":"EduBot",
+      "description":"EduBot - India's own GPT-like AI-based bot for education purposes is an exciting and innovative project that holds immense potential for the educational landscape in India. This groundbreaking initiative aims to harness the power of artificial intelligence to revolutionize the way students learn, educators teach, and knowledge is disseminated"
+     }
+   
+   
+     ]
+  }
+  
